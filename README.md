@@ -1,7 +1,5 @@
 # Galaxy Classification Algorithms - An IAYC 2017 Project
 
---------------------------------------------
-
 ## Classification of galaxies using machine learning methods:
 
 Machine Learning (ML) involves statistical methods that mimic learning processes. In recent
