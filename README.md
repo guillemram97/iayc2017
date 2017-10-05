@@ -1,5 +1,5 @@
 # iayc2017
-Galaxy Classification Algorithms | An IAYC 2017 Project
+'''Galaxy Classification Algorithms | An IAYC 2017 Project'''
 
 --------------------------------------------
 
